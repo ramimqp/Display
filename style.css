@@ -1,0 +1,31 @@
+.greenbox{
+    background-color: green;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    margin: auto;
+    
+
+}
+.para{
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin: auto;
+    padding: auto;
+    border: 2px solid red;
+}
+.greenbox p{
+    margin: 10px;
+    padding: 30px;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+
+}
